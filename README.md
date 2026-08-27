@@ -1,0 +1,1 @@
+Developed a web application that uses a trained XGBoost regression model to predict GLD based on financial market indicators. The system also integrates the latest available market data through APIs and displays the prediction through an interactive web interface.
